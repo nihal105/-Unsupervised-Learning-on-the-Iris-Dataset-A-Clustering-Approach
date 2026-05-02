@@ -76,7 +76,3 @@ Both clustering techniques effectively identified patterns in the dataset.
 KMeans is suitable for efficient clustering, while Hierarchical clustering helps understand relationships between data points.
 
 ---
-
-
-# Run the notebook
-jupyter notebook
