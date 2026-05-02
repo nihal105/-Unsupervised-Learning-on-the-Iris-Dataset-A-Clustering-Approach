@@ -1,4 +1,4 @@
-# -Unsupervised-Learning-on-the-Iris-Dataset-A-Clustering-Approach
+# Unsupervised-Learning-on-the-Iris-Dataset-A-Clustering-Approach
 
 ##  Overview
 This project applies **unsupervised machine learning techniques** to analyze patterns in the Iris dataset. The goal is to group similar data points into clusters without using predefined labels.
